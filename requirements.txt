@@ -1,0 +1,9 @@
+# requirements-dev.txt
+# Development dependencies 
+
+# No external dependencies for now
+# Just Python 3 built-ins: unittest, unittest.mock
+
+# If you ever add:
+# pytest
+# matplotlib
