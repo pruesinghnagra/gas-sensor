@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Thonny project files
+.thonny/
+
+# Ignore data and logs
+data/*.log
+data/*.csv
+
+# Ignore system files
+.DS_Store
+*.swp
+
+# Ignore secrets
+secrets.py
